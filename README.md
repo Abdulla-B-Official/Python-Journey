@@ -1,4 +1,4 @@
-# 🐍 Python-Journey
+# Python-Journey
 
 A comprehensive collection of **Python notebooks, coding exercises, mini projects, and practical implementations** documenting my learning journey from **Python fundamentals to intermediate and advanced programming concepts**.
 
